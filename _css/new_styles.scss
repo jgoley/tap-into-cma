@@ -155,7 +155,7 @@ header {
     border-bottom: $red 5px solid;
     position: fixed;
     top: 0;
-    z-index: 200;
+    z-index: 1000;
     height: 50px;
     &#group-header{
         position: relative;

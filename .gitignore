@@ -3,3 +3,5 @@ _inc/db_connect.php
 .sass-cache/
 _notes/
 dwsync.xml
+sftp-config.json
+*.map
